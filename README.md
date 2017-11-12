@@ -11,6 +11,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** community and toolset to learn to create web pages and apps  
 *(HTML, CSS, JavaScript?)*
 
+#### [SoloLearn](https://www.sololearn.com/)
+**Free** community and toolset to learn to create web pages and apps  
+*(HTML, CSS, JavaScript,Python, C++, Java, PHP, SQL, Ruby, JQuery, C#, Swift)*
+
 #### [Codecademy](http://www.codecademy.com/)
 **Free** platform for learning to code in web technologies  
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
